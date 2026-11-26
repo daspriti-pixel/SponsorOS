@@ -4,7 +4,7 @@
 RISA Labs Growth APM Assignment · Challenge B: Sponsorship Growth  
 Candidate: Priti Das · Proposed host city: Kolkata, India
 
-**[Live application](https://sponsoros.sponsoros-app.workers.dev)** · **[Source repository](https://github.com/Soumya0409-ju/SponsorOS)**
+**[Live application](https://sponsoros.sponsoros-app.workers.dev)** · **[Source repository](https://github.com/daspriti-pixel/SponsorOS)**
 
 > Release status — 26 November 2026: deployed to Cloudflare Workers; the user confirmed the public website opens and works. Supabase authentication, default historical and simulation dashboard values and historical Copilot responses were verified locally. The final production build and GitHub push succeeded. Some database write workflows, simulation AI responses and AI task confirmation were deliberately not tested end to end. All event data is synthetic; forecasts are assumptions, not actual sponsorship receipts.
 
